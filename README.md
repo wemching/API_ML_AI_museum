@@ -41,10 +41,10 @@
 ## 产品设计
 
 ### [产品原型]( "https://nfunm060.gitee.io/api__meseum")
-![授权](https://images.gitee.com/uploads/images/2019/1215/214656_4b15b1d5_1831522.png "屏幕截图.png")
-![拍照识别](https://images.gitee.com/uploads/images/2019/1215/214808_43035a6b_1831522.png "屏幕截图.png")
-![语音识别](https://images.gitee.com/uploads/images/2019/1215/214833_d9afffaa_1831522.png "屏幕截图.png")
-![路线推荐](https://images.gitee.com/uploads/images/2019/1215/214853_cbd08ffc_1831522.png "屏幕截图.png")
-![个人中心](https://images.gitee.com/uploads/images/2019/1215/214923_5398c9f6_1831522.png "屏幕截图.png")
+![授权]("https://images.gitee.com/uploads/images/2019/1215/214656_4b15b1d5_1831522.png "屏幕截图.png")
+![拍照识别]("https://images.gitee.com/uploads/images/2019/1215/215649_a6517488_1831522.png "屏幕截图.png")
+![语音识别]("https://images.gitee.com/uploads/images/2019/1215/215728_bdf42d14_1831522.png "屏幕截图.png")
+![路线推荐]("https://images.gitee.com/uploads/images/2019/1215/214853_cbd08ffc_1831522.png "屏幕截图.png")
+![个人中心]("https://images.gitee.com/uploads/images/2019/1215/214923_5398c9f6_1831522.png "屏幕截图.png")
 
 ### [产品原型下载区]("https://gitee.com/NFUNM060/API__Meseum")
